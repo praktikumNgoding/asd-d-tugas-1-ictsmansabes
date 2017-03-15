@@ -209,6 +209,8 @@ public class MD5 {
             }
         }).start();
         
+        System.out.println("saya melakukan perubahan disini semisal......");
+        
 //        new Thread(new Runnable() {
 //            @Override
 //            public void run() {
